@@ -1,1 +1,16 @@
+.dosbox-container {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    height: 600px;
+    width: auto;
+}
 
+body {
+    background-color: black;
+}
+
+canvas {
+    width: 900px;
+    height: 600px;
+}
