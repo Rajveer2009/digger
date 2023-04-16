@@ -6,11 +6,16 @@
     width: auto;
 }
 
+#dosbox {
+    margin-top: 9%;
+}
+
 body {
     background-color: black;
 }
 
 canvas {
+    cursor: none;
     width: 900px;
     height: 600px;
 }
